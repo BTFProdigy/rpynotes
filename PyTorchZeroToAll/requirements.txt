@@ -6,3 +6,4 @@ numpy==1.13.3
 torch
 torchvision==0.1.9
 Unidecode==0.04.21
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
